@@ -8,3 +8,5 @@ identifies which movement was performed. We do this by using Principal Component
 project our data onto a lower dimension, and classify each sample by assigning it to the class of movement
 whose centroid is closest to its position, in low-dimensional space. We will adjust the dimensionality of the
 problem and explore how many dimensions are necessary in our low-dimensional approximation.
+
+Note: Data and project setup provided by Dr. Natalie Frank at the University of Washington as a part of the AMATH 482 Course.
